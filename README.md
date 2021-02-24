@@ -1,4 +1,6 @@
-# Computer-Programming-Final-Project
+# Computer-Programming_Project
+
+NTUEE 108-1 Computer Programming project
 
 Execute the final_project.py file.
 
